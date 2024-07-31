@@ -1,4 +1,4 @@
-#PetBacker
+PetBacker
 
 Overview
 PetBacker is an Android application developed in Java using Android Studio. The application is designed to help pet owners manage and track the nutritional needs of their pets. It provides features to log pet meals, track nutritional intake, and receive personalized dietary recommendations.
